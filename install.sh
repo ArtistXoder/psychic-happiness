@@ -11,4 +11,4 @@ esac
 cd
 mkdir ~/fah && cd ~/fah
 wget https://download.foldingathome.org/releases/public/release/fahclient/debian-stable-arm64/v7.6/fahclient_7.6.21_arm64.deb
-sudo dpkg -i --force-depends fahclient.deb
+sudo dpkg -i --force-depends fahclient_7.6.21_arm64.deb
